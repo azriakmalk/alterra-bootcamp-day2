@@ -20,3 +20,4 @@ uname -a >> about_this_laptop.txt
 echo "Connection to google:" > internet_connection.txt
 sudo ping -c 3 forcesafesearch.google.com >> internet_connection.txt
 update FeatureB
+update FeatureA
