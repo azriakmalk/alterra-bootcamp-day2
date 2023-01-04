@@ -19,4 +19,4 @@ echo "My Username $1" > about_this_laptop.txt
 uname -a >> about_this_laptop.txt
 echo "Connection to google:" > internet_connection.txt
 sudo ping -c 3 forcesafesearch.google.com >> internet_connection.txt
-testing dulu ini mah ya
+update FeatureB
